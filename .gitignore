@@ -1,0 +1,30 @@
+# Stats file
+stats.txt
+
+# macOS
+.DS_Store
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Node.js
+node_modules/
+.next/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Data directory (large binary/db files and audio)
+data/

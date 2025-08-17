@@ -1,0 +1,16 @@
+# Data Ingestion & Download
+yt-dlp
+
+# Backend Web Framework
+fastapi
+uvicorn
+python-multipart
+
+# Audio Processing & ML
+librosa
+pydub
+soundfile
+demucs
+torch
+transformers
+pinecone
