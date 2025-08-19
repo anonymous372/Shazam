@@ -133,3 +133,4 @@ The songs currently in the database are shown at the bottom of the page as tags.
 - It can handle humming 2x faster or slower than the original song tempo
 - If confidence is below 10%, it returns "No match found" rather than a wrong guess
 - The `vector_store.py` file is an older experimental approach using Wav2Vec2 embeddings — not used in the current pipeline
+
