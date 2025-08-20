@@ -1,4 +1,4 @@
-# Shazam for Kishore Kumar
+# Shazam
 
 A song identification app that works by humming. You hum a melody into your mic, and it figures out which Kishore Kumar song you're trying to recall. No lyrics needed — just the tune.
 
